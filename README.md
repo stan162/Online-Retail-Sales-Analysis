@@ -8,8 +8,7 @@ Businesses generate large volumes of transactional data daily. Without proper an
 
 ## Dashboard Preview
 
-![Dashboard Preview](online-retail-sales-analysis.png)
-
+![Dashboard Preview](Screenshot/Online-%20Retail-%20Sales-%20Analysis.p...)
 # Dataset Information
 
 The dataset contains information on:
