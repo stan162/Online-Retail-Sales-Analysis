@@ -7,7 +7,7 @@ This project focuses on performing Exploratory Data Analysis (EDA) on an e-comme
 Businesses generate large volumes of transactional data daily. Without proper analysis, valuable insights about customer behavior, product performance, and sales trends may remain hidden. This project aims to transform raw data into meaningful information that supports data-driven decision-making.
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](Screenshot.png)
 
 # Dataset Information
 
