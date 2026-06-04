@@ -5,6 +5,9 @@ This project focuses on performing Exploratory Data Analysis (EDA) on an e-comme
 # Business Problem
 
 Businesses generate large volumes of transactional data daily. Without proper analysis, valuable insights about customer behavior, product performance, and sales trends may remain hidden. This project aims to transform raw data into meaningful information that supports data-driven decision-making.
+## Dashboard Preview
+
+![Dashboard](dashboard.png)
 
 # Dataset Information
 
@@ -17,7 +20,7 @@ Referral Sources
 Order Status
 Purchase Quantity
 Transaction Dates
-Tools Used
+# Tools Used
 Power BI
 DAX
 Data Cleaning Techniques
