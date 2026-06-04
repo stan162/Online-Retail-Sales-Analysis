@@ -11,7 +11,7 @@ Businesses generate large volumes of transactional data daily. Without proper an
 
 # Dataset Information
 
-# The dataset contains information on:
+The dataset contains information on:
 Orders
 Products
 Sales Revenue
