@@ -8,6 +8,8 @@ Businesses generate large volumes of transactional data daily. Without proper an
 
 ## Dashboard Preview
 ![Dashboard](dashboard.png)
+
+
 # Dataset Information
 
 The dataset contains information on:
